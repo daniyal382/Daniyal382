@@ -1,7 +1,7 @@
 <# 👋 Hi, I'm Daniyal Hanif
 
 🎓 **Computer Science Student** at DHA Suffa University (Expected Graduation: June 2025)  
-💼 **Flutter Developer** | Mobile App Enthusiast | Python & Dart Programmer  
+💼 ** Software Developer** | Mobile App Enthusiast | Python & Dart Programmer  
 📫 [Email Me](mailto:daniyalhanif382@gmail.com) | 📱 +92 331 3768120  
 🌐 [LinkedIn](https://www.linkedin.com/in/daniyal-hanif-709798281/) | 💻 [GitHub](https://github.com/daniyal382)
 
