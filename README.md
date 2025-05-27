@@ -52,4 +52,4 @@ Currently working on innovative AI-powered tools using Python and Firebase for a
 
 ## 📈 Let's Connect
 
-Feel free to reach out for collaboration, internship opportunities, or open-source contributions!!--
+Feel free to reach out for collaboration, internship/job opportunities, or open-source contributions!!--
