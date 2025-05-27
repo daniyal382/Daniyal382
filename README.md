@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <# 👋 Hi, I'm Daniyal Hanif
 
 🎓 **Computer Science Student** at DHA Suffa University (Expected Graduation: June 2025)  
